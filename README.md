@@ -20,7 +20,7 @@ pb_data/
 │
 ├── automate_csv_excel.py
 ├── config.py
-├── pb_csv.csv
+├── pb_csv.txt
 └── CRMTeam StatusReport_JUNE2026.xlsx
 ```
 
@@ -139,7 +139,7 @@ DATA_FOLDER = Path(
 # FILE NAMES
 # =========================================================
 
-CSV_FILE_NAME = "pb_csv.csv"
+CSV_FILE_NAME = "pb_csv.txt"
 
 EXCEL_FILE_NAME = "CRMTeam StatusReport_JUNE2026.xlsx"
 
